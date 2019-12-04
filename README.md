@@ -7,4 +7,4 @@ The _AnyCubic_Photon_support.cfg file are my support settings, based off of the 
 I'm really surprised regarding the Elegoo Rapid Grey settings, I was getting a lot of overexposure even as low as 8s exposure time, so after upgrading to firmware v5.0.2 and running the updated Photon S RERF.pws (https://www.thingiverse.com/thing:3973475), it looks like 4-5s is the optimal time for that resin on my printer.
 At the time I'm writing this, I have a 4s exposure w/40s initial exposure time, but in the printer as I'm writing this I updated to 5s exposure and 35s initial exposure, if it works well, I'll commit it to the repo.
 
-If you have any questions about my settings, feel free to reach out to me via e-mail (taeogst@gmail.com) or on Reddit u/Taegost
+If you have any questions about my settings, feel free to reach out to me via e-mail (taegost@gmail.com) or on Reddit u/Taegost
